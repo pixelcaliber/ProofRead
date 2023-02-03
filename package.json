@@ -1,0 +1,55 @@
+{
+  "name": "trie-spellcheck",
+  "description": "DSA Project using Tries",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.0",
+    "browser-sync": "^2.26.14",
+    "cookie-parser": "~1.4.4",
+    "debug": "~4.3.1",
+    "dotenv": "^9.0.1",
+    "ejs": "^3.1.6",
+    "express": "~4.17.3",
+    "fontawesome": "^5.6.3",
+    "fs": "^0.0.1-security",
+    "gulp": "4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-header": "^2.0.9",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "header": "^0.1.1",
+    "http-errors": "~1.8.0",
+    "jade": "~1.11.0",
+    "jquery": "^3.6.0",
+    "morgan": "~1.10.0",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7",
+    "ocr-space-api": "^1.0.1",
+    "ocr-space-api-wrapper": "^1.0.5",
+    "popper.js": "^1.16.1",
+    "rename": "^1.0.4",
+    "sass": "^1.32.12",
+    "shell": "^0.8.4",
+    "shelljs": "^0.8.5",
+    "uglify": "^0.1.5"
+  },
+  "author": "Abhinav Pandey",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "main": "app.js"
+}
