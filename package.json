@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "repository": {
-    "url": "",
+    "url": "https://github.com/pixelcaliber/proofread",
     "type": "git"
   },
   "devDependencies": {},
@@ -48,8 +48,8 @@
   },
   "author": "Abhinav Pandey",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/pixelcaliber/proofread/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/pixelcaliber/proofread#readme",
   "main": "app.js"
 }
