@@ -9,7 +9,7 @@ const { check } = require("fontawesome");
 
 // OCR.space setting default options 
 var options = {
-  apikey: "K87590356888957",
+  apikey: process.env.API_KEY,
   language: "eng", // English as default language
   imageFormat: "image/png", // Image Type (Only png or jpeg supported)
   isOverlayRequired: true,
