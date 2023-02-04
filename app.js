@@ -4,7 +4,7 @@ const fs = require("fs");
 const shell = require("shelljs");
 
 const multer = require('multer');
-const upload = multer({ dest: './uploads' });
+const upload = multer({ dest: './tmp' });
 
 // Defining to use express application
 var app = express();
