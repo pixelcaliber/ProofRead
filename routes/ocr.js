@@ -21,9 +21,9 @@ router.post("/", uploads.single("file"), (req, res, next) => {
     var err = new Error("Error!! No File Found!!"); // Checks for file, and handles error
     next(err);
   } 
-  fs.renameSync(req.file.path, "/tmp/uploads/temp"); //Renaming the file to temp
+  fs.renameSync(req.file.path, "uploads/temp"); //Renaming the file to temp
  
-  let filepath = "tmp/uploads/temp";
+  let filepath = "uploads/temp";
 
   // Run and wait the result 
   ocrSpaceApi 
