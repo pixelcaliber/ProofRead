@@ -4,7 +4,7 @@
 </p>
 <br>
 
-> proofRead is a Trie-based implemented Spell Checker that finds mistakes in OCR scanned text. DSA Project.
+> ProofRead is a Trie-based implemented Spell Checker that finds mistakes in OCR scanned text. DSA Project.
 
 ### Made By:
 **Abhinav Pandey - pixelcaliber** <br />
