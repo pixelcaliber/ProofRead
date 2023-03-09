@@ -1,5 +1,5 @@
 <p align="center">
-	<h1 align="center"> proofRead </h1>
+	<h1 align="center"> ProofRead </h1>
 	<h3 align="center"> A spell checker using Tries and Optical Character Recognition (OCR) </h3>
 </p>
 <br>
