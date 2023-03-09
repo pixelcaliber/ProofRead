@@ -34,6 +34,7 @@ int main(int argc, char *argv[])
 
     fin >> noskipws;
     vector<string>res;
+    int i = 0;
     while (!fin.eof())
     {
         fin >> c;
@@ -48,6 +49,7 @@ int main(int argc, char *argv[])
                 {
                     w += c;
                     w += cnext;
+                    i+=2;
                 }            
             }
             else if (w.length() && !globalObject->check(w))
@@ -58,17 +60,24 @@ int main(int argc, char *argv[])
                 // cout << "Wrong word: ";    
                 // cout << w << "   ";
                 wrongWords++;
+                i = 0;
                 w.erase();
             }
             else{
                 fout << w << " ";
                 w.erase();
+                i = 0;
             }
         }
         else if (c != ' ' && c != '\n')
         {
             if (isalpha(c) || c == '\'')
-                w += c;
+                w += c, i++;
+        }
+        if (i > 45)
+        {
+            cout << "Wrong word: " << w << endl;
+            wrongWords++;
         }
     }
     w.erase();

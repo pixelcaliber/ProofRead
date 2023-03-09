@@ -1,29 +1,109 @@
-(l) whatsapp
-graphs - problemse...
-tata steel women-of-mettle
-web.whatsapp.com
-graph editor dp - problemset
-ear nja
-tata steel campus connect i
-tata steel women-of- mettle x
-x
-graph theory playli... main page - algorit...
-problemset - codef...
-a
-(4) how can i prepare for the
-inte.'
-webdev problems - leetcade
-other bookmarks
-congratulation you have been approved to take part in the tata steel women of
-mettle challenge,
-the round 1 window will be active for 4 hour only starting sharp at 10:00 am 18th
-june 2022 and will be active till 02:00 pm 18th june 2022
-anyone who tries to appear for the test after 02.00 pm 18th june 2022 would not be
-able to attempt the test, thus this could be your last chance to participate in the tata
-steel women ot mettle challenge.
-you will only get only one chance to appear in the test please put a reminder not to
-miss this amazing opportunity..
-login using below ijrl to attempt the test
-women of mettle - https://xathon mettl.com/event/women-of-mettl@
-all the best!
-tata steel women of mettle challenge. team
+microprocessors. microcomputers. and assembly language
+table 1.1
+intel microprocessors: historical perspective
+year of
+number of
+introduction transistors
+suss
+s02s6
+s03s6
+&ntium
+pentium ho
+pentium ii
+pentium ill
+pentium 4
+197'
+1972
+1976
+1978
+1979
+1982
+1985
+1989
+1993
+1995
+1997
+2.300
+3.500
+6.500
+29,000
+29.000
+134.000
+275,000
+1.2 m
+3.1 m
+5.5m
+8.8m
+42 m
+initial clock
+speed
+khz
+200 khz
+2 mhz
+5 mhz
+5 mhz
+5 mhz
+8 mhz
+16 mhz
+25 mhz
+60 mhz
+150 mhz
+233 mhz
+650 mhz
+1.4 ghz
+address bus
+o-bit
+14-bit
+i ca-»it
+16-bit
+20-hit
+20-bit
+24-bit
+32-bit
+32.bit
+36-bit
+36-bit
+36-bit
+36-bit
+data bus
+8 -bit
+8-bit
+8-bit
+16.bit
+8-bit•
+16-bit
+32-bit
+320,it
+32464-bit
+32-164-bit
+g-bit
+m. bit
+9
+memory
+byes
+16k
+16m
+64 g
+•external 8-bit and internal 16-bit data bus
+microprocessors as improvements over the 8080. the 6800 was designed
+with a different architecture and the inså-u€tiori from the 8080. on tke other hand. the
+soss and the zso were designed as upward software with the 8080; that is,
+they includé&-an- the instructions of the 800 plus additional instructions. as the
+microprcressors began to acquire more and more computing functions. they were viewed
+more as cpus rather than as programmable logié¯de€ices. mokt microcomputers are now
+built with 32- and 64-bit microprocessors. each microprocessor has begun to carve a
+for its are being used as programmable logic
+devices in control applications, and more powerful microprocessors are being used for
+mathematical computing (number crunching), data processing, and computer graphics
+applications.
+our focus here is on using 8-bit microprocessors as programmable devices in
+microprocessor based systems. the overwhelming majority of microprocessor applications
+use s-bit processors or microcontrollers. the range of applications is very wide and
+diversified—from the auto industry to home appliances. recent statistics suggest that the
+wide sales of 8-bit chips is a major segment of the total number of microprocessor
+the rpcs.• corpmlling reason to use an 8-bit processor is educational.
+the hosic conceptsundcrlying the microprocessor device. it is-easiéfio
+a simple 8-bitpocwso.-tnatl f 64-bit processor and these fundamental co
+2023/2/20
+are easily transferable from 8-bit processors to larger processors.
+18
