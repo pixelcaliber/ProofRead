@@ -38,10 +38,6 @@ yarn install
 yarn start
 ```
 
-## Demo
-
-https://user-images.githubusercontent.com/22132836/118390418-9b0ca900-b64c-11eb-8eba-e6fad1d90864.mp4
-
 <br />
 
 <p align="center">
